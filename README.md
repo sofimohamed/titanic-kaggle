@@ -2,7 +2,7 @@
 
 Modelo de machine learning desenvolvido para a competição **Titanic - Machine Learning from Disaster** no Kaggle. O objetivo é prever quais passageiros sobreviveram ao naufrágio a partir de dados como idade, sexo, classe da passagem e porto de embarque.
 
-[Ver notebook público no Kaggle](COLE_AQUI_O_LINK_DO_SEU_NOTEBOOK)
+[Ver notebook público no Kaggle](https://www.kaggle.com/code/sofimohamed/titanic-previs-o-com-random-forest)
 
 ## Resultados
 
